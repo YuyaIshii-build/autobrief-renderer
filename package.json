@@ -1,0 +1,9 @@
+{
+  "name": "renderer",
+  "version": "1.0.0",
+  "main": "record.js",
+  "dependencies": {
+    "puppeteer": "^21.3.8",
+    "@supabase/supabase-js": "^2.39.0"
+  }
+}
